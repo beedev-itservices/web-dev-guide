@@ -1,3 +1,4 @@
 Melissa's tips and tricks
 
 1. Organize websites the same way each time
+2. Have base templates of certain items or code you will use over and over.
