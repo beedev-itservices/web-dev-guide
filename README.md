@@ -32,3 +32,6 @@ https://join.slack.com/t/beedev-itservices/shared_invite/zt-clc7j0uv-nNYMxmAESwp
 #### Tello Project Board Link.  
 https://trello.com/b/LzV411Ne/web-dev-guide
 
+#### Discord App invite Link
+https://discord.gg/VK8QEZ
+
