@@ -35,3 +35,5 @@ https://trello.com/b/LzV411Ne/web-dev-guide
 #### Discord App invite Link
 https://discord.gg/VK8QEZ
 
+### Live Site
+This site will be live through the master branch on Netlify. Feel free to add the link to the live site to your personal portfolio. Link will be added to this document once that part of the project has been completed.
